@@ -42,21 +42,37 @@ The project demonstrates how Large Language Models (LLMs) can be integrated into
 
 ## 📁 Project Structure
 AI-Support-Assistant/
+
 │
+
 ├── server.js
+
 ├── package.json
+
 ├── .env
+
 │
+
 ├── config/
+
 │ └── openai.js
+
 │
+
 ├── controllers/
+
 │ └── chatController.js
+
 │
+
 ├── routes/
+
 │ └── chatRoutes.js
+
 │
+
 └── utils/
+
 └── fallback.js
 
 ---
@@ -84,14 +100,18 @@ npm start
 Request Body:
 
 {
+
   "message": "What is artificial intelligence?"
+  
 }
 
 Response:
 
 {
+
   "success": true,
   "reply": "Artificial Intelligence refers to..."
+  
 }
 
 ## How It Works
@@ -119,7 +139,9 @@ This project demonstrates how Generative AI can be used in:
 ## Author
 
 Ritika Saha
+
 B.Tech Computer Science Engineering
+
 GitHub: https://github.com/RitikaSaha14
 
 LinkedIn: https://linkedin.com/in/ritika-saha-b87975202
