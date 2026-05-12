@@ -81,7 +81,7 @@ AI-Support-Assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://[github.com/your-username/AI-Support-Assistant.git](https://github.com/RitikaSaha14/AI-SupportAssistant)
+git clone:  https://github.com/RitikaSaha14/AI-SupportAssistant
 ```
 ## Navigate to project folder
 cd AI-Support-Assistant
